@@ -1,0 +1,15 @@
+body {
+    background-image: url('https://www.deztreks.com/wp-content/uploads/2020/10/road-trip-near-Manila.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.content-wrapper {
+    min-height: calc(100vh - 56px);
+    display: flex;
+    align-items: center;
+}
